@@ -14,7 +14,7 @@ ghcr.io/timsinashok/behavior-1k-2026:comet-19999-20261016
 Immutable image digest:
 
 ```text
-sha256:fa139f0ca62efdf39ec574bbbba0c60f52c54b42f11c4f62a8b8b95145b79bc4
+sha256:48c3ab35e76c0c000afc339651de3430b8d7124bcdfcfb2ca16f1f147307e138
 ```
 
 The image serves the official msgpack WebSocket protocol on port 8000. It uses
