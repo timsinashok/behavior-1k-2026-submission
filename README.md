@@ -11,8 +11,11 @@ receding-horizon control, and a 16-action replay horizon.
 ghcr.io/timsinashok/behavior-1k-2026:comet-19999-20261016
 ```
 
-The immutable image digest will be recorded in the release notes after the
-registry build completes.
+Immutable image digest:
+
+```text
+sha256:fa139f0ca62efdf39ec574bbbba0c60f52c54b42f11c4f62a8b8b95145b79bc4
+```
 
 The image serves the official msgpack WebSocket protocol on port 8000. It uses
 RGB observations and proprioception from the official `RGBDFullResWrapper` and
